@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9768559c-03ca-4af4-a56d-82afb1a30ed9" name="Default Changelist" comment="" />
+    <list default="true" id="9768559c-03ca-4af4-a56d-82afb1a30ed9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP/GitHubUserFinder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP/GitHubUserFinder/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP/GitHubUserFinder/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/ICP/GitHubUserFinder/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP/GitHubUserFinder/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP/GitHubUserFinder/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ho0HFHPYWHSRIJSerhm77CFlcP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +31,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,7 +43,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600662052923</updated>
-      <workItem from="1600662054567" duration="6635000" />
+      <workItem from="1600662054567" duration="7445000" />
+      <workItem from="1600746890573" duration="3377000" />
     </task>
     <servers />
   </component>
@@ -45,5 +56,13 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="441" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1600669901667" />
+    <state x="907" y="475" key="Github.ShareDialog" timestamp="1600674833245">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="907" y="475" key="Github.ShareDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1600674833245" />
+    <state x="758" y="283" key="Github.UntrackedFilesDialog" timestamp="1600672767619">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="758" y="283" key="Github.UntrackedFilesDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1600672767619" />
   </component>
 </project>

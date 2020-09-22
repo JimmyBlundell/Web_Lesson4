@@ -13,6 +13,10 @@ header {
   border-bottom: 1px solid #e5e2e0;
 }
 
+#profile_pic {
+  background-image: inherit;
+}
+
 #logo {
   position: relative;
   top: -2px;
