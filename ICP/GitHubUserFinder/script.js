@@ -24,7 +24,7 @@ function showUser(user_info) {
 function noSuchUser(username) {
     //3. set the elements such that a suitable message is displayed
     $("#user_name").text("User not found!")
-    $("#profile_pic").html("<img src='' width='90%'>")
+    $("#profile_pic").html("")
     $("#user_id").text("User ID not found!")
     $("#user_url").html("<a href='' > GitHub Page not found </a>")
 
